@@ -28,6 +28,9 @@ in early detection of Alzheimer’s disease from MRI scans.
 
 ---
 
+
+<img width="1796" height="460" alt="image" src="https://github.com/user-attachments/assets/4ce7465d-292e-4199-96e9-046bdf0d8202" />
+
 ## Workflow
 1. Load and preprocess MRI images
 2. Apply data normalization and augmentation
